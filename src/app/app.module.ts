@@ -13,7 +13,7 @@ import {NewsapiservicesService} from './service/newsapiservices.service'
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
     HttpClientModule
   ],
   providers: [NewsapiservicesService],
