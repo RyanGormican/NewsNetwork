@@ -13,7 +13,7 @@ export class TopheadingComponent implements OnInit {
 
   this._services.topHeading().subscribe((result)=>{
    
-
+  
   })
   
 
